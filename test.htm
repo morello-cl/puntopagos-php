@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="author" content="Marco Orellana <morello.cl@gmail.com>">
+		<meta name="description" content="Cliente prueba PHP consumo API PuntoPagos.com">
+
+		<title>Prueba Puntopagos PHP</title>
+		
+	</head>
+	<body>
+		<h4>Prueba Puntopagos PHP</h4>
+		<form action='puntopagos.php' method='post'>
+			Nombre Comprador<input type='text' name='nombre' /><br />
+			Email Comprador<input type='email' name='email' /><br />
+			N&uacute;mero de Orden de Compra<input type='text' name='nro_compra' /><br />
+			Monto<input type='text' name='monto' /><br />
+			Medio de Pago<input type='text' name='medio_pago' /><br />
+			Detalle<input type='text' name='detalle' value='Venta por Internet' /><br />
+			<input type='submit' />
+		</form>
+	</body>
+</html>
