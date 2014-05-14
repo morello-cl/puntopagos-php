@@ -19,7 +19,7 @@ Las llaves generadas como comercio "*Desarrollo PHP*" en ambiente sandbox
 
 URL PreConfiguradas en plataforma Puntopagos
 --------------------------------------------
-La plataforma de Puntopagos, requiere 3 URL's, la cuales quedan cargadas en un inicio, y solo pueden ser cambiadas
+La plataforma de Puntopagos, requiere 3 URL's, la cuales quedan cargadas en un inicio, y solo pueden ser cambiadas de forma manual por la gente de Soporte Puntopagos.
 - URL Exito: (http://localhost/puntopagos/exito.php)
 - URL Fracaso: (http://localhost/puntopagos/fracaso.php)
 - URL Notificacion: (http://localhost/puntopagos/notificacion.php)
